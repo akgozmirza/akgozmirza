@@ -1,16 +1,19 @@
-## Hi there 👋
+# Merhaba, Ben Mirza Akgöz 👋
 
-<!--
-**akgozmirza/akgozmirza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Bilgisayar Mühendisliği öğrencisiyim.
+- Öğrenci Asistanı (Computer Engineering Department)
+- Siber güvenlik, etik hacking ve CTF çözümleri ile ilgileniyorum.  
+- Ayrıca Python, Java ve Arduino projeleri geliştiriyorum.
 
-Here are some ideas to get you started:
+🔥 İlgi Alanlarım
+- Penetrasyon testleri & zafiyet analizleri  
+- CTF Writeup'ları   
+- Python ile güvenlik otomasyon araçları
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Şu An Üzerinde Çalıştığım
+- Python güvenlik araçları 
+- Kendi CTF writeup arşivimi hazırlamak  
+
+📫 Bana Ulaş
+- Email: akgozmirz@gmail.com
+- LinkedIn: www.linkedin.com/in/mirza-akgöz-b59b45328
