@@ -11,6 +11,7 @@
 - Python ile güvenlik otomasyon araçları
 
 🚀 Şu An Üzerinde Çalıştığım
+- eJPT sertifikasına hazırlık
 - Python güvenlik araçları 
 - Kendi CTF writeup arşivimi hazırlamak  
 
