@@ -16,4 +16,3 @@
 
 📫 Bana Ulaş
 - Email: akgozmirz@gmail.com
-- LinkedIn: www.linkedin.com/in/mirza-akgöz-b59b45328
