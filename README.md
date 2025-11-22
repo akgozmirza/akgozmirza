@@ -16,11 +16,10 @@
 🚀 About Me
 
 - 🎓 Computer Engineering student  
-- 🛡️ Focused on **Ethical Hacking, OSINT, and Cybersecurity fundamentals**  
-- ☕ Actively coding in **Java** (RPG Game, File Manager, Console Apps)  
-- 🤖 Developing projects with **Arduino & Raspberry Pi** (Obstacle Avoider Robot, Voice Assistant)  
+- 🛡️ Focused on **Ethical Hacking, OSINT, and Cybersecurity fundamentals**
+- 🎓 Providing one-on-one private Java lessons 
+- 🤖 Developing projects with **Arduino & Raspberry Pi** (Obstacle Avoider Robot)
 - 🌱 Currently improving my **Linux, Networking, and Python** skills  
-- 🎯 Goal: Become a professional **Penetration Tester / Ethical Hacker**
 
 ---
 
