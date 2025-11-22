@@ -26,7 +26,7 @@
 🧰 Tools I Use
 
 <p>
-  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="150" alt="C++ Logo"/>
+  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="40" alt="C++ Logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
