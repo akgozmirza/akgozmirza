@@ -63,14 +63,6 @@
 
 ---
 
-🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akgozmirza&theme=dracula&no-frame=false&margin-w=4" />
-</p>
-
----
-
 🔥 Currently Working On
 
 - Providing one-on-one private Java lessons 
