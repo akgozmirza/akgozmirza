@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hi, I'm Mirza (akgozmirza)</h1>
+<h1 align="center"> Hi, I'm Mirza (akgozmirza)</h1>
 
 <p align="center">
-  🧑‍💻 Computer Engineering Student • 🛡️ Cybersecurity Learner • ☕ Java Developer  
+  Computer Engineering Student •  Cybersecurity Learner • ☕ C++ Developer
 </p>
 
 <p align="center">
@@ -13,17 +13,15 @@
 
 ---
 
-🚀 About Me
+What I'm working on
 
-- 🎓 Computer Engineering student  
-- 🛡️ Focused on **Ethical Hacking, OSINT, and Cybersecurity fundamentals**
-- 🎓 Providing one-on-one private Java lessons 
-- 🤖 Developing projects with **Arduino & Raspberry Pi** (Obstacle Avoider Robot)
-- 🌱 Currently improving my **Linux, Networking, and Python** skills  
+- **Embedded systems.** I wrote a [bare-metal OLED driver](https://github.com/akgozmirza/OLED_BareMetal_Driver) for the Arduino Uno's ATmega328P, using its I²C/TWI registers directly. I'm now working on reading temperature and pressure sensors over SPI, sending the data to an ESP32, and displaying live readings on an HTML page. The full pipeline is still in progress. I plan to continue with STM32.
+- **AFLOS (Afet Lojistik Sistemi).** Developing it as part of a team.
+
 
 ---
 
-🧰 Tools I Use
+ Tools I Use
 
 <p>
   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="40" alt="C++ Logo"/>
@@ -37,7 +35,7 @@
 
 ---
 
-🧠 Tech Stack (Currently Learning)
+ Tech Stack (Currently Learning)
 
 <p>
   <img src="https://img.shields.io/badge/Java-ee3f17?style=for-the-badge&logo=coffeescript&logoColor=white" />
