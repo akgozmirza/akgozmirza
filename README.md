@@ -56,11 +56,13 @@ What I'm working on
 
 ---
 
-🔥 Currently Working On
+### Currently Working On
 
-- Providing one-on-one private Java lessons 
-- Arduino obstacle-avoider robot  
-- Cybersecurity learning roadmap (Linux, Networking, TryHackMe labs)
+- Giving one-on-one C++ lessons
+- Developing AFLOS with my team
+- Building a private campus exchange app with a friend
+- Writing bare-metal SPI code to read temperature and pressure sensors, with an ESP32-to-browser live data pipeline in progress
+- Learning 6G lab concepts, FlexRIC, Linux, Docker, and Kubernetes with my instructor, Ayhan
 
 ---
 
