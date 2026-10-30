@@ -61,7 +61,7 @@ What I'm working on
 - Giving one-on-one C++ lessons
 - Developing AFLOS with my team
 - Writing bare-metal SPI code to read temperature and pressure sensors, with an ESP32-to-browser live data pipeline in progress
-- Learning 6G lab concepts, FlexRIC, Linux, Docker, and Kubernetes with my instructor, Ayhan
+- Learning 6G lab concepts, FlexRIC, Linux, Docker, and Kubernetes with my instructor
 
 ---
 
