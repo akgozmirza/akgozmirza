@@ -1,14 +1,17 @@
-<h1 align="center"> Hi, I'm Mirza (akgozmirza)</h1>
+<h1 align="center">Hi, I'm Mirza (akgozmirza)</h1>
 
 <p align="center">
-  Computer Engineering Student •  Cybersecurity Learner • ☕ C++ Developer
+  Third-year Computer Engineering Student · C++ Tutor<br>
+  Bare-metal Programming · Embedded Systems · Learning about 6G
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=akgozmirza.akgozmirza" />
-  <a href="mailto:akgozmirza@gmail.com"><img src="https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>
-  <a href="https://github.com/akgozmirza?tab=followers"><img src="https://img.shields.io/github/followers/akgozmirza?color=27da6b&logo=Handshake"></a>
-  <a href="https://github.com/akgozmirza"><img src="https://img.shields.io/github/stars/akgozmirza?color=fefe00&logo=Starship"></a>
+  <a href="mailto:akgozmirza@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/mirza-akg%C3%B6z-b59b45328/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 ---
